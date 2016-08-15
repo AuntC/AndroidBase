@@ -1,5 +1,7 @@
 # Android开发基础
 
+主要涵盖Android开发中的基础知识点。开源项目分析另外开项目进行汇总。
+
 ## Android系统
 1. Android系统架构？
 2. AndroidFramework？
@@ -76,7 +78,7 @@
 3. SQLite  
 
 ## Android的网络访问  
-1. [Http请求](https://github.com/hellodevclub/AndroidBase/blob/master/doc/Http%E8%AF%B7%E6%B1%82.md)(包括http和https区别和原理介绍，响应头等介绍)
+1. [Http和Https](https://github.com/hellodevclub/AndroidBase/blob/master/doc/Http%E8%AF%B7%E6%B1%82.md)(包括http和https区别和原理介绍，响应头等介绍)
 
 ## NDK
 
