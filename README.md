@@ -76,7 +76,7 @@
 3. SQLite  
 
 ## Android的网络访问  
-1. Http和Https的区别？  
+1. [(转)Http和Https的区别？](http://www.cnblogs.com/ok-lanyan/archive/2012/07/14/2591204.html)   
 2. Http的Code？  
 3. Http的Header？  
 
