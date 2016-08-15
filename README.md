@@ -3,14 +3,13 @@
 主要涵盖Android开发中的基础知识点。开源项目分析另外开项目进行汇总。
 
 ## Android系统
-1. Android系统架构？
-2. [AndroidFramework？](https://github.com/hellodevclub/AndroidBase/blob/master/doc/AndroidFramework.md)
-3. Davik虚拟机和ART？
-4. zygote进程？  
-5. 多进程开发？  
-6. 权限管理  
-7. 系统状态获取？包括Imei、sn、网络状态等
-8. arm、x86
+1. [AndroidFramework？](https://github.com/hellodevclub/AndroidBase/blob/master/doc/AndroidFramework.md)
+2. Davik虚拟机和ART？
+3. zygote进程？  
+4. 多进程开发？  
+5. 权限管理  
+6. 系统状态获取？包括Imei、sn、网络状态等
+7. arm、x86
 
 ## Android组件
 1. Activity  
